@@ -1,28 +1,32 @@
-> whoami
-Bruno — Software Engineering Student
+# Bruno Soares
 
-> skills
-Java / Python / MATLAB / SolidWorks
+Software Engineer student that may or may not forgot to add his work into a personal GitHub, opps. 
 
-> current_focus
-Control Systems
-Embedded Systems
-Optimization
+---
 
-> contact
-linkedin.com/...
+## Core Competencies
 
-<!--
-**BrunoSoares618/BrunoSoares618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Systems
+- Java
+- Python
+- REST API design
 
-Here are some ideas to get you started:
+### Embedded & Edge
+- Arduino (C/C++)
+- Raspberry Pi (Linux)
+- Sensor integration
+- Edge-to-cloud communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+- Full-stack architecture
+- API integration
+- Responsive interfaces
+
+### DevOps & Infrastructure
+- Docker
+- CI/CD pipelines
+- Linux systems
+- Cloud deployment
+- Git workflows
+
+--
