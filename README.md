@@ -1,4 +1,16 @@
-## Hi there 👋
+> whoami
+Bruno — Software Engineering Student
+
+> skills
+Java / Python / MATLAB / SolidWorks
+
+> current_focus
+Control Systems
+Embedded Systems
+Optimization
+
+> contact
+linkedin.com/...
 
 <!--
 **BrunoSoares618/BrunoSoares618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
