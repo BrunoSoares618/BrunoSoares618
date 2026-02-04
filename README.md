@@ -1,32 +1,18 @@
-# Bruno Soares
+<div style="background:#1e1e1e;border-radius:10px;padding:18px;font-family:Consolas,'Courier New',monospace;color:#00ff66;">
+  <div style="display:flex;gap:7px;margin-bottom:12px;">
+    <span style="width:12px;height:12px;border-radius:50%;background:#555;display:inline-block;"></span>
+    <span style="width:12px;height:12px;border-radius:50%;background:#555;display:inline-block;"></span>
+    <span style="width:12px;height:12px;border-radius:50%;background:#555;display:inline-block;"></span>
+  </div>
 
-Software Engineer student that may or may not forgot to add his work into a personal GitHub, opps. 
+  <div style="white-space:pre;line-height:1.45;">
+<span style="color:#33ff33;">bruno@github:~$</span> whoami
+Software Engineer
 
----
+<span style="color:#33ff33;">bruno@github:~$</span> stack
+Java · Python · Docker · Arduino · Raspberry Pi
 
-## Core Competencies
-
-### Backend & Systems
-- Java
-- Python
-- REST API design
-
-### Embedded & Edge
-- Arduino (C/C++)
-- Raspberry Pi (Linux)
-- Sensor integration
-- Edge-to-cloud communication
-
-### Web Development
-- Full-stack architecture
-- API integration
-- Responsive interfaces
-
-### DevOps & Infrastructure
-- Docker
-- CI/CD pipelines
-- Linux systems
-- Cloud deployment
-- Git workflows
-
---
+<span style="color:#33ff33;">bruno@github:~$</span> focus
+Backend Systems | Embedded | DevOps
+  </div>
+</div>
