@@ -1,30 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
   <defs>
     <style>
       .bg { fill:#1e1e1e; }
-      .txt { fill:#00ff66; font:16px Consolas, 'Courier New', monospace; }
-      .prompt { fill:#33ff33; font:16px Consolas, 'Courier New', monospace; }
+      .prompt { fill:#33ff33; font:18px Consolas, 'Courier New', monospace; }
+      .txt { fill:#00cc44; font:18px Consolas, 'Courier New', monospace; }
       .cursor {
         fill:#00ff66;
         animation: blink 1s steps(1,end) infinite;
       }
-      @keyframes blink { 50% { opacity:0; } }
+      @keyframes blink {
+        50% { opacity:0; }
+      }
     </style>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="900" height="220" rx="14"/>
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="900" height="300" rx="14"/>
 
-  <circle cx="28" cy="28" r="6" fill="#555"/>
-  <circle cx="46" cy="28" r="6" fill="#555"/>
-  <circle cx="64" cy="28" r="6" fill="#555"/>
+  <!-- Window buttons -->
+  <circle cx="30" cy="30" r="6" fill="#555"/>
+  <circle cx="50" cy="30" r="6" fill="#555"/>
+  <circle cx="70" cy="30" r="6" fill="#555"/>
 
-  <text class="prompt" x="28" y="78">bruno@github:~$</text>
-  <text class="txt" x="210" y="78">whoami</text>
-  <text class="txt" x="28" y="108">Software Engineer</text>
+  <!-- Line 1 -->
+  <text class="prompt" x="30" y="90">bruno@github:~$</text>
+  <text class="txt" x="240" y="90">whoami</text>
+  <text class="txt" x="30" y="120">Software Engineer Student, that may have forgotten to add</text>
+  <text class="txt" x="30" y="145">his repos to a personal GitHub</text>
 
-  <text class="prompt" x="28" y="146">bruno@github:~$</text>
-  <text class="txt" x="210" y="146">stack</text>
-  <text class="txt" x="28" y="176">Java · Python · Docker · Arduino · Raspberry Pi</text>
+  <!-- Line 2 -->
+  <text class="prompt" x="30" y="180">bruno@github:~$</text>
+  <text class="txt" x="240" y="180">stack</text>
+  <text class="txt" x="30" y="210">Java · Python · Docker · Arduino · Raspberry Pi</text>
 
-  <rect class="cursor" x="28" y="190" width="10" height="18" rx="2"/>
+  <!-- Line 3 -->
+  <text class="prompt" x="30" y="245">bruno@github:~$</text>
+  <text class="txt" x="240" y="245">focus</text>
+  <text class="txt" x="30" y="275">Backend Systems · Embedded · DevOps</text>
+
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="30" y="260" width="12" height="20" rx="2"/>
 </svg>
